@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "crates/aetheris-engine",
+  "crates/aetheris-brain",
+  "crates/aetheris-shared",
+]
+resolver = "2"
