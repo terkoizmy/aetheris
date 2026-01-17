@@ -1,4 +1,4 @@
-# SUSANOO-CORE
+# AETHERIS
 
 Autonomous AI-Powered Robotics for Hydrogen Infrastructure Inspection
 
