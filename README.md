@@ -3,7 +3,7 @@
 Autonomous AI-Powered Robotics for Hydrogen Infrastructure Inspection
 
 ## 📌 Project Overview
-SUSANOO-CORE (System for Unified Surveillance and Autonomous Network Observation of Over-ground Energy) is an advanced simulation framework designed for the autonomous inspection of Green Hydrogen pipelines.
+AETHERIS (System for Unified Surveillance and Autonomous Network Observation of Over-ground Energy) is an advanced simulation framework designed for the autonomous inspection of Green Hydrogen pipelines.
 
 Developed for the lablab.ai "AI Meets Robotics" Hackathon, this project addresses the critical safety challenges of the hydrogen economy. By utilizing AI-driven robotics, SUSANOO-CORE automates the detection of structural anomalies and gas leaks in high-pressure environments, minimizing human risk and ensuring infrastructure integrity.
 
